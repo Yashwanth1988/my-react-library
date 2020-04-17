@@ -1,8 +1,9 @@
 # my-react-library
-the basic set &amp; configuration for creating library ( not published )
+the basic setup mp; configuration for creating library ( not published )
 
 Looks at the package json of 'react-seed' project for how to use
 Since it is not publised to internet we tried using it local for testing purpose
+```
   {
     "dependencies": {
       "react": "^16.8.1",
@@ -11,3 +12,4 @@ Since it is not publised to internet we tried using it local for testing purpose
                                              library locally download from your host application (react-seed) */
     }
   }
+ ```
